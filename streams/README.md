@@ -2,7 +2,7 @@
 
 ```shell
 git clone https://github.com/testhubik/homework.git
-cd shri-2018-2-multimedia-homework
+cd homework
 npm i
 npm start
 ```
