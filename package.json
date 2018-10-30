@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "murphy": "murphy",
+    "http-server": "http-server -p 3102 --cors",
+    "start": "run-p http-server murphy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "@videojs/murphy": "^0.1.1",
+    "http-server": "^0.11.1",
+    "npm-run-all": "^4.1.3"
+  }
+}
